@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gopaapp-erxes",
+  "private_key_id": "39959e958134b288c1d00d714d1b05b85a1f7c08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYeyG9NEn7dM22\ngbKGasYGfRgWzjiv8/49p0nEXnhLUE22YeMljIrrncayBTm9VtGfF0DKrMjFp1VN\nxjfxUVSntyLv9efTV2uPU0eLQllYo2dStt8/klZWhw0VPAnv1kQSqr2KYRnfCDZN\nSXQTnZprlSYk0RnPkdy5W2H4Qe8orWQTPnNcbsD7gdey8keBn2D7CGhXedefSnea\ncpBUuR34Kg7FbAw00dmR2m+GCaEnfP0STtLwRhcXwQJQISAWq4413pQQ1dOEgxnG\nqiiPAva5fNm0n02l1a4dkXG2uPPf61bUF2O4Pc93+Qf3TyohUWASZr9Xk6PBJCsy\nt9LKaOJTAgMBAAECggEAGgwav6bCfhiMRfjuD6FaSV6U3u2aQYWUojt2M0QAqmMz\nro2xpIt4DaiSx0m8rEz9dOx51ckbcTjUmUKP6Z/VFUcCU6gdaD79CKZHFfj6QiGL\nJZcuXnpPnCKsztDGC08XKr3Th4pub/kPe5Yqes+8TFSKXeSw+9o7mivmKlZYneai\nLs/iBB7XqRn+d6WapJdIYy3zN4PmJP3ScPJKOV55WM3j5HzxBf+nvwp7Jdq/gUwk\nfPwJWP98MP8eq2wt2izRnGe7Nn/LAQvZ1sfhtB+DyvV2KacoViNiNklaX7EnOq5y\ntzC+HLkFSXwA7EWich+rY41iJ/WiubRksoKJY08lZQKBgQD+6ONpM+GtC5cNw+nV\nYeHtJqFVyQFj7EEoXB2ZlXD7Ezjnk/PQoQXfKCCL5pxMJFe7RFrgD+EleZGfr1Jb\nZgeqmsCG0z/D3U2bYXxIUPaOU6bOn7sTWnJ3bzMDSGCHgbuKa3urSlB2K2yTxUJm\n6qcm/2ijEzNVAb4SuJcfCgwhhQKBgQDZaCqLBtdU5phC7MY9r+8oEx0GI9IESMOw\n+DeLm9LukYhZz0DU2EqZPWu1SOmDkKuedFmFFHkZJOtmHeH2VUubwR9UiqxdP7dj\ndiarV1Cq3rnoogVsVEJt3ZIDMubZKY5GIV2v1/f25gQOgdzBqb+VkzPyPyf5tjD0\nRBEGaVLP9wKBgAYKXME0coeYO7ceyl69GA53mOEgh0Dn609ah3UJPokklneeYOuz\ntSDpoYPPLir7vXx5jTG8DpjFvbar/+acj1fynNdVEDDDAMDK2ZgZGw6aWtyQmm1F\n+mpsHyhXwbnUUC5ih6aydx+lvcfup7kqnFVnPgKHRPMhvHBTIXmh0lHFAoGAYIHh\nAL4UsFd8l5jLl26V11BEvgkAnW4/kDtfTNXrGIP55wQdX150Hvoo6dxn7EM4K6qy\nYmToLMU6yaXSPKs4WPetlLXKNcqm+bvlBoJICNG97QqfJatxoZuNyWW7HANaaL8+\n+2P/atZITrhO6pkTtq4VjR+D+1FpAcWFWTc/z5kCgYEA+lRgOEfecjU/Tn5pajFw\nrmzNw001StBRA1piH1Qg/UvBtjgu8WOVtxXfGvu20Q6mkuhPUPiYDsmYd51JrZeI\ntiMWD99JeAL/Clnunu+SfGvocodJQEUvXzt5v+Gw2cFEcxXQ16zi7Yc9OVICVCVi\nzlaReKdBy/kiH3VR3eIVTr8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gopaapperxes@gopaapp-erxes.iam.gserviceaccount.com",
+  "client_id": "105470183763618386888",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gopaapperxes%40gopaapp-erxes.iam.gserviceaccount.com"
+}
